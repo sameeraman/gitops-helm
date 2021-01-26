@@ -13,7 +13,7 @@ image:
 
 env:
   name: MESSAGE
-  value: This application is deployed using Azure ARC GitOps Helm Charts!
+  value: This application is deployed using Azure Arc GitOps Helm Charts!
 
 imagePullSecrets: []
 nameOverride: ""
